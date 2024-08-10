@@ -1,6 +1,6 @@
 # SpeedX - Website Performance Analyzer
 
-![SpeedX](./dark_speedx.png)![SpeedX](./light_speedx.png)
+![SpeedX](./frontend/dark_speedx.png)![SpeedX](./frontend/darkerr_speedx.png)![SpeedX](./frontend/darkop_speedx.png)![SpeedX](./frontend/light_speedx.png)![SpeedX](./frontend/lightop_speedx.png)
 
 ## Overview
 
@@ -52,12 +52,12 @@ SpeedX is a web application designed to analyze website performance metrics. It 
    ```
 3. **Start the backend server**:
    ```sh
-   cd server
+   cd backend
    node server.js
    ```
 4. **Start the frontend application**:
    ```sh
-   cd client
+   cd frontend
    npm start
    ```
 5. **Open the application**:
