@@ -1,7 +1,5 @@
 # SpeedX - Website Performance Analyzer
 
-![SpeedX](./frontend/dark_speedx.png)![SpeedX](./frontend/darkerr_speedx.png)![SpeedX](./frontend/darkop_speedx.png)![SpeedX](./frontend/light_speedx.png)![SpeedX](./frontend/lightop_speedx.png)
-
 ## Overview
 
 SpeedX is a web application designed to analyze website performance metrics. It provides detailed insights into various performance aspects of a webpage, helping developers optimize their websites for better user experience.
@@ -38,6 +36,18 @@ SpeedX is a web application designed to analyze website performance metrics. It 
   - A custom-built API endpoint provided by the backend server. It accepts a URL, performs performance analysis using Puppeteer, and returns various performance metrics.
 - **Google Fonts API**:
   - Used to import and apply the 'Montserrat' font family to the application for consistent typography.
+
+## Output
+
+- Dark Theme
+![SpeedX](./frontend/dark_speedx.png)
+![SpeedX](./frontend/darkerr_speedx.png)
+![SpeedX](./frontend/darkop_speedx.png)
+
+- White Theme
+![SpeedX](./frontend/light_speedx.png)
+![SpeedX](./frontend/lightop_speedx.png)
+
 
 ## Installation and Setup
 
