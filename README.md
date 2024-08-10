@@ -40,11 +40,13 @@ SpeedX is a web application designed to analyze website performance metrics. It 
 ## Output
 
 - Dark Theme
+
 ![SpeedX](./frontend/dark_speedx.png)
 ![SpeedX](./frontend/darkerr_speedx.png)
 ![SpeedX](./frontend/darkop_speedx.png)
 
 - White Theme
+
 ![SpeedX](./frontend/light_speedx.png)
 ![SpeedX](./frontend/lightop_speedx.png)
 
