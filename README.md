@@ -58,21 +58,19 @@ SpeedX is a web application designed to analyze website performance metrics. It 
    git clone https://github.com/your-username/speedx.git
    cd speedx
    ```
-2. **Install dependencies**:
-   ```sh
-   npm install
-   ```
-3. **Start the backend server**:
+2. **Install dependencies and Start the backend server**:
    ```sh
    cd backend
+   npm install
    node server.js
    ```
-4. **Start the frontend application**:
+3. **Install dependencies and Start the frontend application**:
    ```sh
    cd frontend
+   npm install
    npm start
    ```
-5. **Open the application**:
+4. **Open the application**:
    - Open your browser and navigate to http://localhost:3000
 
 ## Acknowledgements
