@@ -1,6 +1,6 @@
 # SpeedX - Website Performance Analyzer
 
-![SpeedX](./dark_speedx.png)![SpeedX](./light_speedx.png)
+![SpeedX](./frontend/dark_speedx.png)![SpeedX](./frontend/light_speedx.png)
 
 ## Overview
 
